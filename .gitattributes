@@ -2,12 +2,20 @@ models/bert_base_uncased_all_rels2.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_5.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_10.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_15.pth filter=lfs diff=lfs merge=lfs -text
-
 models/df_fshot_20.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_25.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_30.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_35.pth filter=lfs diff=lfs merge=lfs -text
 models/df_fshot_40.pth filter=lfs diff=lfs merge=lfs -text
+models/df_fshot_45.pth filter=lfs diff=lfs merge=lfs -text
+models/df_fshot_50.pth filter=lfs diff=lfs merge=lfs -text
+models/df_fshot_80.pth filter=lfs diff=lfs merge=lfs -text
+
+
+
+
+
+
 
 
 
